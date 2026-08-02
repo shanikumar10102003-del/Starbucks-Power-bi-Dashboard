@@ -21,7 +21,7 @@ Dashboard Overview.png
 
 ## Dashboard Preview
 
-![Dashboard Preview](Images/dashboard-overview.png)
+![Dashboard Preview](Images/Dashboard Overview.png)
 
 
 ## 🎯 Project Objectives
