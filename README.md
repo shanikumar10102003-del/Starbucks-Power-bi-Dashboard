@@ -13,7 +13,11 @@ This project is designed as a portfolio project to showcase Power BI skills for 
 ---
 
 ## 📊 Dashboard Preview
+# Starbucks Power BI Dashboard
 
+## Dashboard Preview
+
+![Dashboard Preview](Images/dashboard-overview.png)
 
 
 ## 🎯 Project Objectives
