@@ -17,7 +17,7 @@ This project is designed as a portfolio project to showcase Power BI skills for 
 
 ## Dashboard Preview
 
-![Dashboard Preview](/Dashboard-Overview.png)
+![Dashboard Overview](/Dashboard-Overview.png)
 
 
 ## 🎯 Project Objectives
